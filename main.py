@@ -1,6 +1,6 @@
 import time
 
-TIMES_TO_RUN = 1000
+TIMES_TO_RUN = 1000000
 SIZE_OF_LIST = 100
 
 # List comp
