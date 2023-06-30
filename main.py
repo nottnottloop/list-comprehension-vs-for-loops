@@ -17,7 +17,7 @@ start_time = time.time()
 for i in range(TIMES_TO_RUN):
   arr = []
   for j in range(SIZE_OF_LIST):
-    arr.append(i)
+    arr.append(j)
 
 for_loop_time = time.time() - start_time
 
